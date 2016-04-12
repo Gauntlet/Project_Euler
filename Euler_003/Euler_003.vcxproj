@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A0D05514-71F2-4D27-A9E3-517CF3FE91A1}</ProjectGuid>
+    <ProjectGuid>{638F8E61-B0E8-44A2-947F-0722E17D5539}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Euler_1</RootNamespace>
+    <RootNamespace>Euler_003</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Euler_001</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Euler_001.cpp" />
+    <ClCompile Include="Euler_003.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
